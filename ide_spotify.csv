@@ -1,0 +1,301 @@
+Pos,P+,Artist,Points,Apple M,Spotify,iTunes,YouTube,Shazam,Deezer,Top Country,#
+1,=,Taylor Swift,5531,2987,2229,182,49,36,47,Philippines,126
+2,=,Bad Bunny,3792,1577,1736,68,141,86,184,Mexico,75
+3,+1,Ed Sheeran,3188,1300,979,665,36,73,134,Australia,154
+4,-1,The Weeknd,3167,1327,1520,84,45,110,80,Philippines,150
+5,=,Miley Cyrus,2616,862,798,319,371,103,163,Canada,124
+6,=,Feid,2361,797,1085,17,323,68,70,Colombia,25
+7,=,KAROL G,2097,597,817,57,455,62,108,Colombia,42
+8,=,Rema,1877,738,398,180,291,142,129,Canada,151
+9,+1,Harry Styles,1850,756,806,131,6,38,114,United Kingdom,111
+10,-1,Metro Boomin,1789,915,682,19,22,102,49,Canada,143
+11,+5,Coldplay,1701,598,407,468,107,29,92,Indonesia,125
+12,-1,Lana Del Rey,1678,971,510,117,34,21,25,Poland,114
+13,+1,Peso Pluma,1664,553,649,89,230,102,42,Mexico,31
+14,-1,Drake,1648,1154,442,13,20,15,3,United States,137
+15,=,SZA,1627,809,665,47,45,32,29,United States,138
+16,-4,Lewis Capaldi,1520,845,302,256,51,42,23,United Kingdom,114
+17,=,Shakira,1361,297,451,156,317,84,57,Spain,78
+18,=,Morgan Wallen,1257,496,545,145,52,19,1,United States,16
+19,=,David Guetta,1226,293,362,266,94,106,105,Germany,112
+20,=,Beyoncé,1218,739,239,171,3,17,48,Brazil,139
+21,=,Adele,1138,368,315,311,67,20,57,United Kingdom,136
+22,=,FIFTY FIFTY,1127,198,333,117,330,132,17,Indonesia,108
+23,+2,Grupo Frontera,1062,254,383,38,257,71,59,Mexico,26
+24,+2,Davido,1049,790,66,54,63,54,22,Nigeria,80
+25,+2,Post Malone,1034,372,501,89,11,25,36,Canada,95
+26,-2,Loreen,1015,250,295,205,115,75,75,Netherlands,60
+27,-4,Jimin,980,161,242,435,23,27,92,South Korea,119
+28,+2,Eminem,973,286,491,28,106,39,24,Germany,101
+29,+3,BLACKPINK,952,502,294,106,40,8,3,Singapore,60
+30,-1,Rauw Alejandro,944,398,450,30,13,25,29,Mexico,32
+31,=,Ayra Starr,909,415,104,34,221,78,58,France,106
+32,-4,Anuel AA,890,250,394,6,218,17,6,Spain,27
+33,+1,David Kushner,879,238,314,66,100,117,44,Netherlands,91
+34,-1,Libianca,864,299,141,61,243,92,29,Netherlands,108
+35,=,21 Savage,846,607,176,21,14,28,0,United States,139
+36,=,Imagine Dragons,830,183,422,89,11,13,112,India,88
+37,+1,Lil Durk,825,445,147,28,131,65,9,United States,102
+38,+10,(G)I-DLE,802,318,85,88,293,16,2,Taiwan,56
+39,-2,Quevedo,790,237,454,26,40,19,14,Spain,29
+40,=,Ninho,786,437,193,4,106,14,32,France,22
+41,+4,Luke Combs,774,288,344,110,20,12,1,Canada,15
+42,+7,Kendrick Lamar,771,369,244,63,7,86,1,United States,120
+43,=,Burna Boy,771,588,89,29,22,23,19,Nigeria,76
+44,-2,Tiësto,768,241,311,100,26,60,30,Netherlands,69
+45,-1,Dua Lipa,762,272,394,81,0,9,7,Australia,95
+46,-5,ROSALÍA,735,219,320,45,81,24,46,Spain,44
+47,-1,Manuel Turizo,724,153,322,53,110,56,30,Spain,31
+48,+13,Fuerza Regida,716,178,274,25,193,17,30,Mexico,18
+49,-2,J. Cole,714,370,212,19,70,33,9,United States,102
+50,+1,Pritam,703,270,402,27,0,4,0,India,19
+51,+2,Yng Lvcas,700,114,253,10,248,40,35,Mexico,27
+52,-13,Summer Walker,697,656,21,9,0,10,1,South Africa,102
+53,-3,Måneskin,695,219,322,45,24,23,61,Estonia,51
+54,+3,Eslabon Armado,693,167,418,23,0,41,43,Mexico,29
+55,-3,Calvin Harris,692,171,191,183,46,71,31,United Kingdom,109
+56,-2,BTS,675,96,463,73,9,11,24,Japan,75
+57,-1,Käärijä,666,173,247,122,50,18,56,Finland,43
+58,+2,Arijit Singh,659,233,263,41,114,8,0,India,24
+59,-4,Bizarrap,656,141,252,41,129,10,83,Spain,47
+60,-2,Mora,650,279,340,0,0,17,13,Spain,19
+61,-2,JVKE,645,86,224,223,30,23,59,Indonesia,127
+62,+3,Junior H,612,184,290,21,88,11,18,Mexico,15
+63,=,YOASOBI,609,170,187,114,125,8,4,Japan,27
+64,-2,Eladio Carrion,591,0,509,0,69,0,13,Spain,22
+65,-1,aespa,576,397,61,48,64,7,0,South Korea,45
+66,+3,???,574,574,0,0,0,0,0,China,1
+67,+1,Valiant,574,499,0,4,62,0,9,Guyana,18
+68,+3,Selena Gomez,570,343,95,131,0,2,1,Canada,121
+69,+6,P!nk,567,133,64,264,55,39,13,Netherlands,79
+70,+3,Sam Smith,567,169,261,32,20,17,69,Australia,88
+71,+1,Yandel,564,101,283,8,120,19,33,Spain,26
+72,-2,Coi Leray,563,157,138,157,7,100,3,Australia,75
+73,+3,Arctic Monkeys,559,134,400,13,0,1,10,United Kingdom,77
+74,-7,Chris Brown,552,343,106,37,44,18,4,United States,124
+75,-1,IVE,549,212,175,26,118,15,4,Japan,23
+76,+23,Ke personajes,544,76,255,3,148,34,28,Argentina,9
+77,-11,LE SSERAFIM,533,204,199,33,84,11,2,Japan,41
+78,+12,OneRepublic,533,172,175,51,10,12,112,Australia,76
+79,-1,Alessandra,529,119,152,86,120,18,35,Norway,40
+80,+25,Morad,518,190,164,1,134,16,12,Spain,29
+81,-1,Apache 207,516,199,185,80,27,9,15,Germany,4
+82,-1,Jul,514,183,149,5,130,25,22,France,39
+83,+8,Billie Eilish,510,207,175,35,0,71,22,Australia,101
+84,-5,Daft Punk,507,267,77,151,5,2,5,France,114
+85,+1,Ozuna,506,147,281,22,32,5,19,Spain,51
+86,+2,Lady Gaga,502,85,163,129,41,63,21,Switzerland,89
+87,+2,Natanael Cano,494,185,185,18,83,7,15,Mexico,20
+88,+10,YoungBoy Never Broke Again,487,383,17,17,34,35,0,United States,97
+89,-2,Tom Odell,482,125,195,17,54,55,36,Netherlands,88
+90,-13,Kodak Black,480,52,172,202,19,34,0,United States,127
+91,+2,Future,472,307,118,7,8,32,0,United States,100
+92,+2,Werenoi,472,221,172,0,67,5,7,France,14
+93,-8,JISOO,471,81,81,57,233,18,2,Taiwan,53
+94,+3,NewJeans,466,199,157,28,72,6,4,Japan,27
+95,=,Bruno Mars,465,46,208,192,0,3,16,Philippines,107
+96,+12,DJ Maphorisa,460,386,16,25,2,29,2,South Africa,25
+97,+15,Kabza De Small,459,402,21,19,2,16,0,South Africa,16
+98,+2,Gazo,457,261,125,4,42,10,13,France,21
+99,-7,TINI,454,88,258,12,71,8,18,Argentina,19
+100,+6,Carin Leon,454,117,120,46,137,16,18,Mexico,17
+101,+1,Justin Bieber,446,183,220,30,0,4,9,Indonesia,81
+102,+12,Byron Messia,444,385,0,8,45,3,3,Saint Kitts and Nevis,23
+103,-7,Lin-Manuel Miranda,442,386,28,28,0,0,0,Australia,81
+104,+11,Rihanna,440,162,166,79,5,8,19,Australia,105
+105,+2,SDM,433,230,107,5,58,13,20,France,19
+106,+4,Travis Scott,430,216,123,3,0,88,0,Canada,122
+"107,-3,""Tyler, The Creator"",429,117,261,2,24,23,1,United States,76"
+108,-5,Joeboy,428,371,28,2,4,13,10,Nigeria,65
+109,+28,Myke Towers,427,136,205,6,69,11,0,Spain,25
+110,-27,KAYTRANADA,426,415,0,11,0,0,0,South Africa,104
+111,-29,KAYTRAMINÉ,422,411,0,11,0,0,0,South Africa,104
+112,+16,One Direction,421,46,176,195,0,2,1,Indonesia,89
+113,-29,Aminé,420,410,0,11,0,0,0,South Africa,105
+114,-3,Semicenk,419,104,161,31,99,7,16,Turkey,6
+115,+6,Elton John,418,131,108,73,1,16,89,Australia,69
+116,-15,NLE Choppa,417,43,140,201,20,12,0,United States,120
+117,+6,Olivia Rodrigo,413,175,230,8,0,0,0,Indonesia,73
+118,-2,Kanye West,411,260,145,6,0,1,0,United States,99
+119,-2,Omah Lay,408,284,35,9,31,31,17,Nigeria,60
+120,-11,Lil Baby,406,302,83,7,5,8,1,United States,55
+121,+5,Shubh,399,281,97,16,4,0,0,India,23
+122,-2,Charlie Puth,398,93,177,76,29,18,6,South Korea,98
+123,-5,Anne-Marie,388,101,79,148,0,61,0,United Kingdom,77
+124,+7,Ellie Goulding,384,144,65,101,1,73,0,United Kingdom,60
+125,-3,???,382,377,0,5,0,0,0,Hong Kong,5
+126,+6,Geolier,375,92,168,3,104,4,4,Italy,3
+127,-14,Emis Killa,375,159,186,16,12,1,1,Italy,3
+128,+12,Bebe Rexha,373,154,101,67,0,42,9,Canada,86
+129,-10,SEVENTEEN,369,216,89,26,24,14,0,Japan,30
+130,=,Kali Uchis,369,86,202,3,45,32,1,United States,77
+131,-7,RAYE,369,135,107,25,27,37,37,Australia,66
+132,+6,Tiakola,362,220,99,3,23,4,12,France,21
+133,+10,Romeo Santos,358,88,177,34,56,3,1,Dominican Republic,22
+134,-9,Ice Spice,357,179,105,8,51,14,1,United States,80
+135,-6,PinkPantheress,356,128,152,7,42,12,14,Australia,66
+136,+155,Zhang Zhe Han,352,0,0,352,0,0,0,Taiwan,38
+137,-4,Ariana Grande,352,161,164,19,0,5,3,Philippines,83
+138,+7,Fleetwood Mac,351,163,136,40,1,5,6,Australia,32
+139,-4,Agust D,349,170,135,18,0,3,23,Venezuela,58
+140,-13,Muni Long,345,28,84,201,8,11,12,Indonesia,119
+141,-5,Jhayco,344,184,138,0,7,11,4,Spain,22
+142,+9,Luis Miguel,336,137,152,23,18,0,5,Mexico,18
+143,+3,Sia,333,60,57,176,8,14,20,India,110
+144,-2,Damso,333,200,115,3,0,11,4,France,19
+145,-11,Jere Klein,325,39,150,1,121,14,0,Chile,8
+146,+21,Miyagi,318,209,48,15,43,2,1,Russia,15
+147,-3,Morat,318,67,248,0,0,0,3,Mexico,19
+148,+20,MACAN,317,233,19,18,25,18,3,Russia,21
+149,+24,Jack Harlow,308,224,43,2,0,1,39,Canada,81
+150,+4,Fally Ipupa,305,208,0,5,61,24,7,Republic of the Congo,20
+151,-1,Naps,305,117,105,4,56,4,18,France,13
+152,+11,Arcángel,304,119,181,1,0,3,0,Colombia,21
+153,+11,Maria Becerra,302,35,158,2,86,14,8,Argentina,10
+154,+7,Big One,301,38,120,2,104,17,21,Argentina,10
+155,-16,Alan Menken,301,272,0,28,0,0,0,Thailand,76
+156,+27,A.R. Rahman,300,125,106,42,23,2,1,India,13
+157,+20,DYSTINCT,300,81,69,12,71,47,20,France,40
+158,+4,Eladio Carrión,300,277,0,3,0,19,0,Spain,22
+159,+17,Yahritza Y Su Esencia,299,31,82,9,142,19,16,Mexico,18
+160,+11,Azahriah,298,83,117,0,59,3,36,Hungary,4
+161,-9,Young Miko,297,111,147,5,12,20,3,Argentina,21
+162,-13,RAF Camora,297,80,155,16,31,2,13,Germany,7
+163,+11,Sfera Ebbasta,296,93,163,13,20,6,2,Italy,7
+164,+2,B Praak,295,0,21,0,274,0,0,India,34
+165,+4,Amitabh Bhattacharya,293,206,70,12,0,4,0,India,17
+166,-6,Victony,290,128,24,3,89,32,14,Nigeria,63
+167,-11,Stephen Sanchez,290,40,109,33,32,48,27,Australia,56
+168,+4,INSTASAMKA,285,100,57,6,60,62,0,Russia,56
+169,-22,Veigh,283,133,123,5,17,3,2,Brazil,6
+170,-5,Asake,283,225,32,2,4,12,8,Nigeria,38
+171,+11,Ana Castela,280,78,101,24,66,8,2,Brazil,7
+172,-15,Metallica,279,188,28,47,8,1,7,Germany,60
+173,-25,FuQiang Zhang,279,0,0,279,0,0,0,Austria,8
+174,+6,Guilherme,277,67,173,2,26,0,9,Brazil,4
+175,-34,Ghost,277,192,9,62,5,5,3,Sweden,56
+176,+2,Marshmello,275,46,98,55,2,53,21,Spain,50
+177,-24,Howard Ashman,275,251,0,24,0,0,0,Thailand,78
+178,+31,Don Omar,271,10,188,8,31,29,5,Chile,65
+179,-4,Juice WRLD,270,114,144,7,0,2,2,United States,69
+180,+13,The Kid LAROI,268,77,115,18,0,3,55,Australia,60
+181,+3,ANNA ASTI,268,138,13,31,81,5,0,Russia,14
+182,+18,Bailey Zimmerman,267,66,61,41,21,66,11,Canada,59
+183,+4,Lazza,267,87,134,20,24,1,2,Italy,3
+184,+24,Lost Frequencies,265,81,87,44,1,20,30,Netherlands,47
+185,-26,NICKI NICOLE,264,114,121,11,1,14,4,Argentina,19
+186,-1,King,264,40,106,8,109,0,0,India,17
+187,+5,Mrs. Green Apple,264,75,151,34,0,3,1,Japan,1
+188,+6,Frank Ocean,262,136,115,8,0,0,3,Australia,71
+189,-3,Miguel,261,127,78,13,25,11,6,United States,66
+190,-9,LINKIN PARK,256,25,164,47,4,11,5,Germany,59
+191,-33,Jonas Brothers,254,154,52,37,0,11,1,Canada,58
+192,-37,Kesha,254,222,0,29,0,0,3,Brazil,86
+193,-2,Don Toliver,248,173,52,1,1,21,1,United States,102
+194,-15,Kim Petras,245,137,50,32,0,27,0,Australia,71
+195,+16,Glass Animals,244,80,111,15,7,4,28,Australia,55
+196,+35,Elevation Worship,242,191,0,43,3,5,1,South Africa,54
+197,+18,Daniel Caesar,242,142,78,9,5,7,1,Indonesia,48
+198,-8,Jay Chou,241,10,155,65,0,11,0,Hong Kong,6
+199,-11,Toosii,241,94,22,27,79,18,1,United States,42
+200,+1,Ruger,239,128,11,5,64,21,10,Nigeria,38
+201,-,Calin,235,75,116,2,40,2,0,Czech Republic,2
+202,+,Mahalini,235,67,119,11,32,3,3,Indonesia,5
+203,=,Zach Bryan,234,63,89,33,19,3,26,United States,13
+204,+,Purple Disco Machine,233,25,50,87,18,47,7,Germany,27
+205,-,J Balvin,233,104,112,5,2,6,4,Colombia,35
+206,+,Grupo Firme,232,43,66,9,93,5,17,Mexico,12
+207,+,VAUNDY,231,73,120,14,23,2,0,Japan,1
+208,-,Tea Tairovi?,231,0,0,0,231,0,0,Serbia,8
+209,-,Sleep Token,230,181,0,39,0,0,10,Australia,60
+210,-,Pop Smoke,230,59,163,7,0,0,0,Canada,60
+211,+,070 Shake,222,121,39,25,0,35,1,Australia,62
+212,+,BM,221,26,107,0,67,9,11,Argentina,7
+213,-,Mabel Matiz,219,59,84,24,41,7,4,Turkey,5
+214,-,Nile Rodgers,219,86,27,70,28,7,1,Japan,67
+215,+,Alan Walker,217,21,75,52,42,23,5,Indonesia,45
+216,-,Kylie Minogue,217,27,0,168,4,1,18,United Kingdom,40
+217,+,Maroon 5,216,29,105,37,41,0,4,Philippines,66
+218,+,Kizz Daniel,215,104,16,6,54,27,9,Nigeria,31
+219,+,Israel,215,46,102,9,50,1,7,Brazil,7
+220,+,Skryptonite,215,160,49,5,0,0,0,Kazakhstan,15
+221,-,Becky G,215,28,109,4,57,0,16,Mexico,23
+222,NEW,Jah Prayzah,214,120,1,4,89,0,0,Zimbabwe,12
+223,+,Rodolffo,214,46,102,8,50,1,7,Brazil,4
+224,+,Mahmoud Al Turky,211,25,0,1,162,22,0,Oman,31
+225,+,Hov1,208,13,188,0,5,2,0,Sweden,2
+226,-,Tea Tairovic,207,157,2,0,0,1,47,Serbia,12
+227,-,Viktor Sheen,207,83,110,2,10,2,1,Czech Republic,2
+228,=,Calum Scott,207,91,39,48,0,27,2,United Kingdom,46
+229,-,Cris Mj,206,17,117,0,62,1,10,Chile,17
+230,-,Katy Perry,206,15,185,2,0,1,3,Australia,43
+231,-,Lil Mabu,206,8,85,1,101,7,3,United States,29
+232,+,Eslabón Armado,205,0,0,0,205,0,0,Mexico,21
+233,-,reezy,205,85,114,0,3,0,3,Germany,7
+234,+,Marco Mengoni,203,44,66,50,33,4,7,Italy,23
+235,-,Dj Belite,203,85,0,70,45,0,3,Russia,50
+236,-,MC Cabelinho,203,80,83,0,34,5,1,Brazil,6
+237,+,Florence + the Machine,203,55,39,51,9,48,2,United Kingdom,57
+238,-,NF,202,136,50,7,0,4,5,Canada,65
+239,-,Kali,202,61,61,3,29,41,8,United States,56
+240,+,The Neighbourhood,201,22,166,0,0,5,8,Poland,46
+241,+,ABBA,201,108,40,40,10,2,1,Netherlands,50
+242,+,Dermot Kennedy,200,35,14,63,7,79,3,Ireland,59
+243,-,No Limit,200,83,48,4,41,9,16,France,21
+244,=,Shiva,200,46,109,2,41,1,1,Italy,1
+245,-,PLK,199,76,89,0,23,2,9,France,7
+246,-,Supernova Ent,197,130,60,5,0,3,0,Brazil,6
+247,+,Tate McRae,197,116,23,27,0,14,17,Australia,44
+248,-,KayBlack,196,65,100,0,24,6,2,Brazil,6
+249,-,Daddy Yankee,195,33,108,38,3,12,2,Chile,39
+250,+,Veronica Maggio,194,14,178,1,0,1,0,Sweden,2
+251,-,Chencho Corleone,194,82,101,0,8,2,0,Chile,24
+252,NEW,Prabhas,194,0,0,0,194,0,0,India,21
+253,NEW,Michael Jackson,193,69,16,78,21,4,4,Netherlands,104
+254,-,Doja Cat,192,43,122,9,0,1,17,United States,64
+255,+,Baby Lullaby Academy,192,176,0,0,0,0,15,Thailand,41
+256,-,MONA,191,122,2,32,13,23,0,Russia,19
+257,+,sanah,189,24,111,3,44,2,6,Poland,1
+258,NEW,Jack Black,189,0,6,23,160,0,0,United States,36
+259,+,Nicki Minaj,189,100,18,23,12,16,20,United States,76
+260,-,back number,189,57,125,5,0,0,2,Japan,1
+261,+,Sezen Aksu,188,41,97,18,24,8,0,Turkey,8
+262,+,50 Cent,187,60,111,7,8,1,0,Canada,54
+263,-,Luciano,186,70,101,3,9,2,2,Germany,10
+264,+,Henrique & Juliano,186,27,121,1,30,0,6,Brazil,1
+265,-,OFFICIAL HIGE DANDISM,185,0,134,20,27,3,2,Japan,1
+266,NEW,Marília Mendonça,185,68,80,8,24,1,5,Brazil,4
+267,-,Sidhu Moose Wala,184,63,93,23,5,0,0,India,5
+268,-,Separ,183,69,94,0,9,0,11,Slovakia,2
+269,+,kizaru,181,102,55,6,1,15,1,Russia,19
+270,-,Zola,181,73,90,0,9,0,9,France,13
+271,+,James Arthur,181,13,117,28,7,13,2,Indonesia,47
+272,+,Spyro,181,42,4,2,103,23,7,Namibia,31
+273,-,Djadja,181,68,74,2,32,1,4,France,8
+274,-,Dinaz,181,68,74,2,32,1,4,France,8
+275,NEW,Pinguini Tattici Nucleari,180,46,85,31,14,2,1,Italy,3
+276,-,Rammstein,180,93,62,18,3,0,4,Germany,30
+277,-,Miranda!,180,25,91,0,55,4,5,Argentina,14
+278,NEW,Blanka,179,28,51,29,56,4,11,Poland,23
+279,-,La Joaqui,179,41,86,0,36,8,8,Argentina,6
+280,+,2Pac,178,15,13,2,14,133,1,Worldwide,78
+281,-,UZI,176,51,112,0,12,0,1,Turkey,5
+282,-,Milo j,175,28,122,3,8,12,2,Argentina,19
+283,-,Kungs,174,22,25,81,0,45,1,Germany,27
+284,-,Noa Kirel,173,55,70,17,17,2,12,Israel,28
+285,-,Zara Larsson,173,36,53,47,4,20,12,Sweden,30
+286,-,Murumba Pitch,172,117,18,17,5,14,0,South Africa,14
+287,NEW,Christian Nodal,172,20,111,13,11,9,7,Mexico,15
+288,-,Tempoe,171,127,10,2,0,32,0,Nigeria,52
+289,+,Jairo Vera,170,16,91,0,59,3,1,Chile,1
+290,+,Sebastian Yatra,170,0,158,0,0,0,12,Spain,19
+291,+,Heuss L'enfoiré,169,8,38,0,98,25,1,France,35
+292,NEW,Depeche Mode,169,89,0,59,14,4,3,Belgium,44
+293,NEW,Yuuri,168,12,127,8,21,1,0,Japan,6
+294,-,Taiu,168,18,93,0,41,10,6,Spain,19
+295,-,Pink Floyd,167,123,0,43,0,0,0,Italy,56
+296,NEW,Melanie Martinez,167,129,37,1,0,0,0,United States,61
+297,-,HoodBlaq,167,66,71,0,24,3,4,Germany,6
+298,-,Fireboy DML,167,100,15,5,27,9,10,Nigeria,37
+299,-,Emilia,166,31,89,2,27,13,4,Argentina,9
+300,-,Suspect 95,166,96,0,17,17,6,29,Côte d'Ivoire,11
